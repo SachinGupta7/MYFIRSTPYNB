@@ -2,3 +2,4 @@ bqplot
 voila
 numpy
 ipywidgets
+IPython
